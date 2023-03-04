@@ -69,7 +69,7 @@ console.log('hi, im js')
 
 
 ### All link is here  
-[LinkedIn](linkedin)
+[LinkedIn][linkedin]
 
 ### Image Syntax:
 ![title](image)
@@ -83,9 +83,14 @@ console.log('hi, im js')
 
 ### Table syntax:
 
+|Name|Email| 
+|-----|------|
+|Yelias Ahmed|yeliasahmed89@gmail.com|
+|Github|[github](https://github.com/YeliasAhmed)|
+|LinkedIn|[LinkedIn][linkedin]|
 
 
 
 
 
-[linkedin]:https://www.linkedin.com/in/yelias-ahmed
+[linkedin]: https://www.linkedin.com/in/yelias-ahmed
