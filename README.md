@@ -55,7 +55,7 @@ console.log('hi, im js')
 
 ### Automatic link
   https://github.com/YeliasAhmed  
-  https://www.facebook.com
+  https://www.facebook.com/yeliasahmed200
 
 ### Disable link
 `https://www.facebook.com`
